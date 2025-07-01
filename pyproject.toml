@@ -1,0 +1,12 @@
+[project]
+name = "docx-to-psd"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "image-to-psd>=1.1.0",
+    "pillow==9.3.0",
+    "psd-tools==1.9.0",
+    "python-docx==0.8.11",
+]
