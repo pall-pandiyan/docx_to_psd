@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "docx2pdf>=0.1.8",
     "image-to-psd>=1.1.0",
+    "pdf2image>=1.17.0",
     "pillow==9.3.0",
     "psd-tools==1.9.0",
     "python-docx==0.8.11",
